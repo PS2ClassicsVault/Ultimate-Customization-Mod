@@ -21,4 +21,4 @@ Installs custom icon packs, audio sounds for alarms, notifications ringtones UI 
 - Arch: arm64-v8a (arm/armeabi-v7a is not supported)
 
 ## Changelog
-[View changelog here](https://github.com/PS2ClassicsVault/Cyberdevs-crDroid-Add-On-Installer/blob/main/UCM/changelog.md)
+[View changelog here](https://github.com/PS2ClassicsVault/Ultimate-Customization-Mod/blob/main/changelog.md)
