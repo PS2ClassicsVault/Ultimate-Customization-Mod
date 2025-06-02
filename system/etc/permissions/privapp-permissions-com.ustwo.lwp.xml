@@ -19,12 +19,12 @@ This XML file declares which signature|privileged permissions should be granted 
 applications that come with the platform
 -->
 <permissions>
-    <privapp-permissions package="com.breel.geswallpapers">
-        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <privapp-permissions package="com.ustwo.lwp">
         <permission name="android.permission.ACCESS_FINE_LOCATION"/>
         <permission name="android.permission.INTERNET"/>
-        <permission name="android.permission.POST_NOTIFICATIONS"/>
         <permission name="android.permission.ACCESS_NETWORK_STATE"/>
-        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
+       <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+      <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
     </privapp-permissions>
 </permissions>
